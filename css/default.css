@@ -14,7 +14,7 @@ header{
 #main{
   background-color: #66bc97;
   width: calc(100% - 200%);
-  min-width: 800px;
+  min-width: 1000px;
   float: left;
 }
 #main1{
