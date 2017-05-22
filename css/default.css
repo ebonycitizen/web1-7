@@ -14,7 +14,7 @@ header{
   color: #5bd5a2;
 }
 .box{
-  background-color: #c9adb7;
+  background-color: #a88d97;
   color: #9d3f65;
   width: 240px;
   height: 150px;
@@ -27,7 +27,7 @@ header{
   background-color: #66bc97;
   color: #9d3f65;
   width: calc(100% - 200px);
-  min-width: 800px;
+  min-width: 500px;
   float: left;
 }
 /*#main1{
