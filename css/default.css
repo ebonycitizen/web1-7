@@ -11,15 +11,28 @@ body{
 header{
   background-color: #a8265b;
 }
+#main{
+  background-color: white;
+  width: calc(100% - 200%);
+  min-width: 800px;
+  float: left;
+}
 #main1{
   background-color: #9d3f65;
+  width: 800px;
+  float: left;
 }
 #main2{
   background-color: #877179;
+  width: 800px;
+  float: left;
 }
 aside{
   background-color: #71a38d;
+  width: 300px;
+  float: right;
 }
 footer{
   background-color: #a8265b;
+  clear: both;
 }
