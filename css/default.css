@@ -27,7 +27,7 @@ header{
   background-color: #66bc97;
   color: #9d3f65;
   width: calc(100% - 200px);
-  min-width: 500px;
+  min-width: 600px;
   float: left;
 }
 /*#main1{
@@ -42,7 +42,7 @@ header{
 }*/
 aside{
   background-color: #71a38d;
-  color: #303030;
+  color: white;
   width: 200px;
   float: right;
 }
