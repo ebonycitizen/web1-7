@@ -4,3 +4,22 @@
   margin:0;
   padding:0;
 }
+
+body{
+  background-color: #5bd5a2;
+}
+header{
+  background-color: #a8265b;
+}
+#main1{
+  background-color: #9d3f65;
+}
+#main2{
+  background-color: #877179;
+}
+aside{
+  background-color: #71a38d;
+}
+footer{
+  background-color: #a8265b;
+}
