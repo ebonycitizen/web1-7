@@ -7,7 +7,7 @@
 
 body{
   background-color: #5bd5a2;
-  margin: 60px 0 0 0;
+  margin: 70px 0 0 0;
 }
 header{
   background-color: #a8265b;
@@ -55,5 +55,5 @@ footer{
   width: 24px;
   position: absolute;
   left: 50px;
-  top: 100px;
+  top: 50px;
 }
