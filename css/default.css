@@ -10,10 +10,11 @@ body{
 }
 header{
   background-color: #a8265b;
+  color: #5bd5a2;
 }
 .box{
   background-color: #877179;
-  color: white;
+  color: #9d3f65;
   width: 240px;
   height: 80px;
   margin: 5px;
@@ -39,10 +40,12 @@ header{
 }*/
 aside{
   background-color: #71a38d;
+  color: #7c8a83;
   width: 200px;
   float: right;
 }
 footer{
   background-color: #a8265b;
+  color: #5bd5a2;
   clear: both;
 }
