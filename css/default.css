@@ -36,12 +36,12 @@ header{
   float: left;
 }
 aside{
-  background-color: #545454;
-  color: white;
+  background-color: #71a38d;
+  color: #545454;
   width: 200px;
   float: right;
   position: relative;
-  top: 5px;
+  top: 8px;
   right: 5px;
 }
 footer{
