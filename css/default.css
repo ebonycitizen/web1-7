@@ -27,7 +27,6 @@ header{
   float: left;
   overflow: auto;
 }
-
 #main{
   background-color: #66bc97;
   color: #9d3f65;
@@ -35,16 +34,6 @@ header{
   min-width: 600px;
   float: left;
 }
-/*#main1{
-  background-color: #9d3f65;
-  width: 800px;
-  float: left;
-}
-#main2{
-  background-color: #877179;
-  width: 800px;
-  float: left;
-}*/
 aside{
   background-color: #545454;
   color: white;
@@ -59,4 +48,11 @@ footer{
   color: #5bd5a2;
   font-weight: bold;
   clear: both;
+}
+
+#picture{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
 }
