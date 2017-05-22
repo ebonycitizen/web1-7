@@ -10,13 +10,14 @@ body{
 }
 header{
   background-color: #a8265b;
+  font-weight: bold;
   color: #5bd5a2;
 }
 .box{
   background-color: #877179;
   color: #9d3f65;
   width: 240px;
-  height: 80px;
+  height: 150px;
   margin: 5px;
   float: left;
   overflow: auto;
@@ -24,6 +25,7 @@ header{
 
 #main{
   background-color: #66bc97;
+  color: #9d3f65;
   width: calc(100% - 200px);
   min-width: 800px;
   float: left;
@@ -40,12 +42,13 @@ header{
 }*/
 aside{
   background-color: #71a38d;
-  color: #7c8a83;
+  color: #686868;
   width: 200px;
   float: right;
 }
 footer{
   background-color: #a8265b;
   color: #5bd5a2;
+  font-weight: bold;
   clear: both;
 }
