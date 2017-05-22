@@ -7,11 +7,16 @@
 
 body{
   background-color: #5bd5a2;
+  margin: 48px 0 0 0;
 }
 header{
   background-color: #a8265b;
   font-weight: bold;
   color: #5bd5a2;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%
 }
 .box{
   background-color: #a88d97;
@@ -41,10 +46,13 @@ header{
   float: left;
 }*/
 aside{
-  background-color: #71a38d;
+  background-color: #545454;
   color: white;
   width: 200px;
   float: right;
+  position: relative;
+  top: 5px;
+  right: 5px;
 }
 footer{
   background-color: #a8265b;
