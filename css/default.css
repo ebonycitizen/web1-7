@@ -13,7 +13,7 @@ header{
 }
 #main{
   background-color: #66bc97;
-  width: calc(100% - 200%);
+  width: calc(100% - 200px);
   min-width: 900px;
   float: left;
 }
@@ -29,7 +29,7 @@ header{
 }
 aside{
   background-color: #71a38d;
-  width: 300px;
+  width: 200px;
   float: right;
 }
 footer{
